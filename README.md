@@ -1,1 +1,1 @@
-# Heroes Of Pymoli
+# Academy of Py
